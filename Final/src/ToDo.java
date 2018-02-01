@@ -5,8 +5,6 @@ import java.util.Calendar;
 import java.util.TimeZone;
 
 // Arslan, Sai, Ishaan 
-// June 03, 2015
-// ICS 4U0
 // Fast Cash
 
 /** program description
